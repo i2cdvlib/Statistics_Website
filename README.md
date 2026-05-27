@@ -7,5 +7,12 @@ To run the code you need to install libraries such as streamlit, pandas and plot
 To install the libraries run the following commands
 
 pip install streamlit
+
+
+
+
 pip install pandas
+
+
+
 pip install plotly.express
